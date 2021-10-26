@@ -7,5 +7,3 @@
     </a> </h1>
 
 ***
-
-![image](https://user-images.githubusercontent.com/64991656/138487669-04d0baa2-77b9-47b9-abd8-1c967f7e6656.png)
